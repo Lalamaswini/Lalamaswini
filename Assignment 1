@@ -1,0 +1,6 @@
+a=int(input('enter a:'))
+b=int(input('enter b:'))
+If(a>=b):
+Print('a is big')
+Else:
+Print ('b is big')
